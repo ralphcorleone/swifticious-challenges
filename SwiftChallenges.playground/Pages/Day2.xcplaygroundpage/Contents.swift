@@ -17,4 +17,3 @@ import Foundation
  Hint #3: You need to ignore case, so consider forcing the string to either lowercase or uppercase before comparing.
  
  */
-
